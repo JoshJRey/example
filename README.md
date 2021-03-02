@@ -1,3 +1,3 @@
 # example
-example for github course
+example for github courses
 updated on local system
